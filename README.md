@@ -15,11 +15,11 @@ npm install
 Launch the development apps
 ````bash
 # start android app
-ืnpm run android
+npm run android
 
 # start ios app
-ืnpm run ios
+npm run ios
 
 # start web app
-ืnpm run web
+npm run web
 ````
